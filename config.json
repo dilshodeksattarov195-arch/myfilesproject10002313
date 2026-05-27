@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerfync",
+        "uuid": 9480987,
+        "checksum": "bhjx8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
